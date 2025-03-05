@@ -2,7 +2,7 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Hamilton Dynamic                |
+| 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Spectral Geometry                |
 | 14/03/2025 | Huang Hao<br>(ZJU)    | Introduction to Neural Tangent Kernel        |
 | 21/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |
 | 28/03/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |

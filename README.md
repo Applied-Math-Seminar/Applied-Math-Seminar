@@ -2,7 +2,6 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Spectral Geometry                |
 | 14/03/2025 | Huang Hao<br>(ZJU)    | Introduction to Neural Tangent Kernel        |
 | 21/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |
 | 28/03/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |
@@ -16,6 +15,7 @@
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
+| 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Spectral Geometry                | [Note]()|[Video](https://www.bilibili.com/video/BV1hFQWYQETa/?vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 28/02/2025 | Li Huiteng<br>(ZJU)   | Introduction to Unfitted Finite Element Methods |[Note](./Notes/18_Lihuiteng_Introduction_to_Unfitted_Finite_Element_Methods.pdf)|[Video](https://www.bilibili.com/video/BV16F95YmEB1?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 21/02/2025 | Fan Yuxin<br>(CUHK)    | Bayesian methods in inverse problems         |[Note](./Notes/17_Fanyuxin_Introduction%20to%20inverse%20problems.pdf)|[Video](https://www.bilibili.com/video/BV1gHPcepE6e?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 14/02/2025  | Shuang Hu<br>(ZJU)      | Discontinuous Galerkin Method for Hyperbolic Equations | [Note](./Notes/16_ShuangHu_Discontinuous_Galerkin/) | [Video](https://www.bilibili.com/video/BV1JHw9eLEpz/) |

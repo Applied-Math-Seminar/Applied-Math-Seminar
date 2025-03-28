@@ -14,7 +14,7 @@
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
-| 28/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |[Note](./Notes/21_Li_Yuanfan_stability_and_ generalization.pdf)|[Video](https://www.bilibili.com/video/BV14KoRY2E6m?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
+| 28/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |[Note](./Notes/21_Li_Yuanfan_stability_and_generalization.pdf)|[Video](https://www.bilibili.com/video/BV14KoRY2E6m?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 21/03/2025 | Huang Hao<br>(ZJU)    | Introduction to Neural Tangent Kernel        |[Note](./Notes/20_HuangHao_NTK.pdf)|[Video](https://www.bilibili.com/video/BV1cCXkYFEYc?vd_source=63e33a29dff06bcd516c160442aaefa9&spm_id_from=333.788.videopod.sections#reply114200731065534)|
 | 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Spectral Geometry                | [Note](./Notes/19_DengMaolin_Spectral_Geometry.pdf)|[Video](https://www.bilibili.com/video/BV1hFQWYQETa/?vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 28/02/2025 | Li Huiteng<br>(ZJU)   | Introduction to Unfitted Finite Element Methods |[Note](./Notes/18_Lihuiteng_Introduction_to_Unfitted_Finite_Element_Methods.pdf)|[Video](https://www.bilibili.com/video/BV16F95YmEB1?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|

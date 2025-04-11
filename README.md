@@ -3,7 +3,6 @@
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
 | 04/04/2025 | **Holiday**  |                                               |
-| 11/04/2025 | Hanfei Zhou<br>(FDU)  | Topic about operator learning                |
 | 18/04/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |
 
 
@@ -13,6 +12,7 @@
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
+| 11/04/2025 | Hanfei Zhou<br>(FDU)  | Topic about operator learning                |[Note](./Notes/22_Zhou_Hanfei_operator_learning.pdf)|[Video](https://www.bilibili.com/video/BV1kndDYoEh8?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 28/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |[Note](./Notes/21_Li_Yuanfan_stability_and_generalization.pdf)|[Video](https://www.bilibili.com/video/BV14KoRY2E6m?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 21/03/2025 | Huang Hao<br>(ZJU)    | Introduction to Neural Tangent Kernel        |[Note](./Notes/20_HuangHao_NTK.pdf)|[Video](https://www.bilibili.com/video/BV1cCXkYFEYc?vd_source=63e33a29dff06bcd516c160442aaefa9&spm_id_from=333.788.videopod.sections#reply114200731065534)|
 | 07/03/2025 | Deng Maolin<br>(CUHK)  | Topics about Spectral Geometry                | [Note](./Notes/19_DengMaolin_Spectral_Geometry.pdf)|[Video](https://www.bilibili.com/video/BV1hFQWYQETa/?vd_source=63e33a29dff06bcd516c160442aaefa9)|

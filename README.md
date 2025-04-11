@@ -2,7 +2,6 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 04/04/2025 | **Holiday**  |                                               |
 | 18/04/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |
 
 

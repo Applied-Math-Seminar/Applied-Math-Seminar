@@ -6,7 +6,7 @@
 | 25/04/2025 | Shao Guojiang<br>(FDU)   | Group testing problem in information theory      |
 | 02/05/2025 | Holiday |  |
 | 16/05/2025 | Lin Xuyang<br>(École Polytechnique)   | Langevin process and metastability      |
-| 16/05/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
+| 23/05/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
 
 
 

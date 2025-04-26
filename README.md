@@ -3,7 +3,7 @@
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
 | 02/05/2025 | Holiday |  |
-| 16/05/2025 | Lin Xuyang<br>(École Polytechnique)   | Langevin process and metastability      |
+| 9/05/2025 | Chen Yu<br>(ZJU)   | Algebra, Geometry and Topology-based Data Analysis and Deep Learning    |
 | 23/05/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
 
 

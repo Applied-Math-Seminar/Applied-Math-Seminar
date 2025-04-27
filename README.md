@@ -11,7 +11,7 @@
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
-| 25/04/2025 | Shao Guojiang<br>(FDU)   | Group testing problem in information theory      |[Note]()|[Video](https://www.bilibili.com/video/BV1mzLHzFE87?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
+| 25/04/2025 | Shao Guojiang<br>(FDU)   | Group testing problem in information theory      |[Note](./Notes/24_Shao_Guojiang_MSGPT.pdf)|[Video](https://www.bilibili.com/video/BV1mzLHzFE87?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 18/04/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |[Note](./Notes/23_Zhou_Yuxin_Numerical_Methods_for_OT.pdf)|[Video](https://www.bilibili.com/video/BV1WY5EzCEJF?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 11/04/2025 | Hanfei Zhou<br>(FDU)  | Topic about operator learning                |[Note](./Notes/22_Zhou_Hanfei_operator_learning.pdf)|[Video](https://www.bilibili.com/video/BV1kndDYoEh8?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 28/03/2025 | Li Yuanfan<br>(ZJU)   | Stability and generalization analysis        |[Note](./Notes/21_Li_Yuanfan_stability_and_generalization.pdf)|[Video](https://www.bilibili.com/video/BV14KoRY2E6m?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|

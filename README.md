@@ -32,5 +32,5 @@
 | 15/11/2024  | Guanyu Chen<br>(ZJU)    | Introduction to SPDEs and its Numerical methods | [Note](./Notes/5_Guanyu_note.pdf) | [Video](https://www.bilibili.com/video/BV14fmZYvEpE/) |
 | 09/11/2024  | Guanyu Chen<br>(ZJU)    | Stationary Process and Random Field             | [Note](./Notes/4_Guanyu_class_note.pdf) | [Video](https://www.bilibili.com/video/BV1anDzY8EKU/) |
 | 01/11/2024  | Guanyu Chen<br>(ZJU)    | Numerical methods for Ito SODEs                 | [Note](./Notes/3_Guanyu_class_note.pdf) | [Video](https://www.bilibili.com/video/BV1JUSdYpEAs/) |
-| 25/10/2024  | Guojiang Shao<br>(FDU)  | Ito formula and SDEs                            | [Note](./Notes/Shao-Class-Second%20Course%20Of%20Sde.pdf) | [Video](https://www.bilibili.com/video/BV15myXYoEdY/) |
-| 18/10/2024  | Guojiang Shao<br>(FDU)  | Conditional expectation Brownian motion and stochastic integrals | [Note](./Notes/Shao_Class_A%20First%20Course%20Of%20Sde.pdf) | [Video](https://www.bilibili.com/video/BV1KKCmY4E55/) |
+| 25/10/2024  | Guojiang Shao<br>(FDU)  | Ito formula and SDEs                            | [Note](./Notes/2nd_Shao-Class-Second Course Of Sde.pdf) | [Video](https://www.bilibili.com/video/BV15myXYoEdY/) |
+| 18/10/2024  | Guojiang Shao<br>(FDU)  | Conditional expectation Brownian motion and stochastic integrals | [Note](./Notes/Shao_Prepare_A first course of sde.pdf) | [Video](https://www.bilibili.com/video/BV1KKCmY4E55/) |

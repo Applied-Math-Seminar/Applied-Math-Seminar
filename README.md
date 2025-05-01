@@ -33,4 +33,4 @@
 | 09/11/2024  | Guanyu Chen<br>(ZJU)    | Stationary Process and Random Field             | [Note](./Notes/4_Guanyu_class_note.pdf) | [Video](https://www.bilibili.com/video/BV1anDzY8EKU/) |
 | 01/11/2024  | Guanyu Chen<br>(ZJU)    | Numerical methods for Ito SODEs                 | [Note](./Notes/3_Guanyu_class_note.pdf) | [Video](https://www.bilibili.com/video/BV1JUSdYpEAs/) |
 | 25/10/2024  | Guojiang Shao<br>(FDU)  | Ito formula and SDEs                            | [Note](./Notes) | [Video](https://www.bilibili.com/video/BV15myXYoEdY/) |
-| 18/10/2024  | Guojiang Shao<br>(FDU)  | Conditional expectation Brownian motion and stochastic integrals | [Note](./Notes/Shao_Prepare_A_first_course_of_sde.pdf) | [Video](https://www.bilibili.com/video/BV1KKCmY4E55/) |
+| 18/10/2024  | Guojiang Shao<br>(FDU)  | Conditional expectation Brownian motion and stochastic integrals | [Note](./Notes) | [Video](https://www.bilibili.com/video/BV1KKCmY4E55/) |

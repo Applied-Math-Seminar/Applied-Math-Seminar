@@ -2,7 +2,7 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 9/05/2025 | Chen Yu<br>(ZJU)   | Algebra, Geometry and Topology-based Data Analysis and Deep Learning    |
+| 9/05/2025 | Chen Yu<br>(ZJU)   | Algebra, Geometry and Topology-based Data Analysis and Deep Learning    |[Note]()|[Video.](https://www.bilibili.com/video/BV1fgVDzREgj?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 23/05/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
 
 

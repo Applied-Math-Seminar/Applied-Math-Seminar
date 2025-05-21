@@ -2,7 +2,7 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 23/05/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
+| 30/05/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
 | 13/06/2025 | Ming Li<br>(FDU)   | Memorization and Generalization in Flow Matching Models     |
 
 

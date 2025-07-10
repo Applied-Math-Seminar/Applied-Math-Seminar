@@ -2,7 +2,9 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-
+|18/07/2025|Yu Chen|Topology-based approaches in geometry processing|
+|25/07/2025|Tsz Ching Chow|Inertial Proximal Difference-of-Convex Algorithm with Convergent Bregman Plug-and-Play for Nonconvex Imaging|
+|01/08/2025|Enjiang Yue|Operator learning in seismic spatio-temporal process|
 
 
 

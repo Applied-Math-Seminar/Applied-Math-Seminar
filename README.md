@@ -2,14 +2,16 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-| 06/06/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |
-| 20/06/2025 | Ming Li<br>(FDU)   | Memorization and Generalization in Flow Matching Models     |
+
 
 
 
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
+| 04/07/2025 | Yuanfan Li<br>(ZJU)   | Understanding Neural Networks beyond Kernel Methods     |Note|[Video](https://www.bilibili.com/video/BV1RYTMz7E14?spm_id_from=333.788.videopod.sections)|
+| 20/06/2025 | Ming Li<br>(FDU)   | Memorization and Generalization in Flow Matching Models     |Note|Video|
+| 06/06/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |Note|[Video](https://www.bilibili.com/video/BV1RYTMz7E14?spm_id_from=333.788.videopod.sections)|
 | 9/05/2025 | Chen Yu<br>(ZJU)   | Algebra, Geometry and Topology-based Data Analysis and Deep Learning    |[Note](./Notes/25th_ChenYu_Algebra_Geometry_and_Topology-based_Data_Analysis_and_Deep_Learning.pdf)|[Video.](https://www.bilibili.com/video/BV1fgVDzREgj?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 25/04/2025 | Shao Guojiang<br>(FDU)   | Group testing problem in information theory      |[Note](./Notes/24_Shao_Guojiang_MSGPT.pdf)|[Video](https://www.bilibili.com/video/BV1mzLHzFE87?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 18/04/2025 | Zhou Yuxin<br>(PKU)   | Numerical methods for optimal transport      |[Note](./Notes/23_Zhou_Yuxin_Numerical_Methods_for_OT.pdf)|[Video](https://www.bilibili.com/video/BV1WY5EzCEJF?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|

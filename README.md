@@ -10,7 +10,7 @@
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
-|18/07/2025|Yu Chen|Topology-based approaches in geometry processing|Note|[Video](https://www.bilibili.com/video/BV11uY2zBEgp?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
+|18/07/2025|Chen Yu<br>(ZJU)|Topology-based approaches in geometry processing|Note|[Video](https://www.bilibili.com/video/BV11uY2zBEgp?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 04/07/2025 | Yuanfan Li<br>(ZJU)   | Understanding Neural Networks beyond Kernel Methods     |[Note](./Notes/Understanding_NN_beyond_Kernel.pdf)|[Video](https://www.bilibili.com/video/BV1RYTMz7E14?spm_id_from=333.788.videopod.sections)|
 | 20/06/2025 | Ming Li<br>(FDU)   | Memorization and Generalization in Flow Matching Models     |Note|Video|
 | 06/06/2025 | Guo Qilong<br>(NUS)   | Image Denoising Related      |[Note](./Notes/Image_Denoising_Related.pdf)|[Video](https://www.bilibili.com/video/BV1RYTMz7E14?spm_id_from=333.788.videopod.sections)|

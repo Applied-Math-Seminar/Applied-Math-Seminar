@@ -2,14 +2,14 @@
 ## **Seminar Schedule**
 | 日期        | Speaker       | Title                                         |
 |------------|--------------|-----------------------------------------------|
-|10/10/2025|Maolin Deng<br>(CUHK)|Multidimensional Discrete Calderon Problem||[Video](https://www.bilibili.com/video/BV1Xn4HzYEU7?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 
 
 
 ## **Previous Sessions**
 | Time(DD/MM/YYYY)         | Speaker         | Title                                           | Note  | Video |
 |--------------|---------------|-------------------------------------------------|------|------|
-|26/09/2025|Enjiang Yue<br>(ZJU)|Operator learning in seismic spatio-temporal process|||
+|10/10/2025|Maolin Deng<br>(CUHK)|Multidimensional Discrete Calderon Problem|Note|[Video](https://www.bilibili.com/video/BV1Xn4HzYEU7?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
+|26/09/2025|Enjiang Yue<br>(ZJU)|Operator learning in seismic spatio-temporal process|Note|Video|
 |18/07/2025|Chen Yu<br>(ZJU)|Topology-based approaches in geometry processing|Note|[Video](https://www.bilibili.com/video/BV11uY2zBEgp?spm_id_from=333.788.videopod.sections&vd_source=63e33a29dff06bcd516c160442aaefa9)|
 | 04/07/2025 | Yuanfan Li<br>(ZJU)   | Understanding Neural Networks beyond Kernel Methods     |[Note](./Notes/Understanding_NN_beyond_Kernel.pdf)|[Video](https://www.bilibili.com/video/BV1RYTMz7E14?spm_id_from=333.788.videopod.sections)|
 | 20/06/2025 | Ming Li<br>(FDU)   | Memorization and Generalization in Flow Matching Models     |Note|Video|
